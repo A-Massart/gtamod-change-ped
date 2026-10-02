@@ -42,6 +42,6 @@ gtamod-change-ped/
 └─ README.md
 ```
 
-## Crédits et licence
-
-Auteur, contexte (PAD EMD), licence si tu en as choisi une.
+## Crédits
+Tuto et Mod réalisés par :
+Alice MASSART, PAD EMD 2026.
